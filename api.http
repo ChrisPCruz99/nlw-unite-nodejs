@@ -19,15 +19,15 @@ Content-Type: application/json
 
 ###
 
-GET http://localhost:3333/events/81a3f6db-45bf-4a6f-b10c-bcaf8837ac43
+GET http://localhost:3333/events/9e9bd979-9d10-4915-b339-3786b1634f33
 
 ###
 
-GET http://localhost:3333/attendees/5/badge
+GET http://localhost:3333/attendees/10110/badge
 ###
 
-GET http://localhost:3333/attendees/4/check-in
+GET http://localhost:3333/attendees/10110/check-in
 
 ###
 
-GET http://localhost:3333/events/81a3f6db-45bf-4a6f-b10c-bcaf8837ac43/attendees?query=diego
+GET http://localhost:3333/events/9e9bd979-9d10-4915-b339-3786b1634f33/attendees?query=diego
